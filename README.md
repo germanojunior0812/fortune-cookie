@@ -3,7 +3,7 @@ O objetivo deste aplicativo é trazer inspiração e positividade para o seu dia
 
 💻 Tecnologias Utilizadas
 HTML
-CSS
+Css
 JavaScript
 
 ## 🔗 Links
